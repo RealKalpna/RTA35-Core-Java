@@ -1,8 +1,8 @@
-package PracticeExcercise;
+package practice.excercise;
 
 import java.util.Scanner;
 
-public class Day1Excercise {
+public class Day1ExcerciseAboutLoopsAndPrintingNumber {
 
     public static void main(String[] args) {
         System.out.println("Entering main method");
